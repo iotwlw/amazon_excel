@@ -1,0 +1,1 @@
+pyinstaller --paths C:\Users\Administrator\AppData\Local\Programs\Python\Python37\Lib\site-packages\PyQt5\Qt\bin -i ./ui/title.ico -w 亚马逊表格处理.py
