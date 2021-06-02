@@ -5,4 +5,4 @@ QSettings
 DBUtils+sqlite3  
 pandas  
 
-![image](https://github.com/star1986xk/amazon_excel/blob/master/win.png)
+![image](https://github.com/star1986xk/amazon_excel/blob/master/win.jpg)
